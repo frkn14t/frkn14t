@@ -30,6 +30,7 @@
   Henüz eklenmedi, çok yakında!
 - [Sakarya'da Emlak Fiyat Tahmini ve Konut Kompleksi Sınıflandırması](https://github.com/frkn14t/Sakarya-da-Emlak-Fiyat-Tahmini-ve-Konut-Kompleksi-S-n-fland-rmas-)
 - **İphone price prediction**: https://github.com/frkn14t/iphone-price-prediction
+-  https://iphone-price-prediction-rydysnwhmuy2wfuqwqrkfr.streamlit.app/
 ---
 
 ## 💡 İlgi Alanlarım
